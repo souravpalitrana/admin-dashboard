@@ -1,16 +1,25 @@
 # admin_dashboard
 
-A new Flutter project.
+A simple admin dashboard build with Flutter.
+I had an old react dashboard. Recently, I want to do some changes on it and aslo the previous design was not responsive. Again, I developed the
+new api using SpringBoot. Hence, I need to change the api request format as well. So I was thinking, why not build with Flutter as I can access it
+from my Mac as a regular mac OS application and aslo as a web application.
+However I was little bit confused regarding the performance as a mac application.
+But after seeing the output, Man! I was amazed by the smoothness and UI look & feel.
 
-## Getting Started
+Made a basic structure for the dashboard system. More features can be included.
 
-This project is a starting point for a Flutter application.
+Check the video here
+[![Flutter Admin Dashboard]          
+(https://i.ytimg.com/vi/MMsRAFxmImw/maxresdefault.jpg)] // Thumbnail
+(https://www.youtube.com/watch?v=MMsRAFxmImw "Flutter Admin Dashboard")
 
-A few resources to get you started if this is your first Flutter project:
+You can download the dmg
+- [Admin Dashboard DMG File from the installer folder] (https://github.com/souravpalitrana/admin-dashboard/tree/master/installer/macos_dmg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="screenshots/1.png" width="50%" height="50%" />
+<img src="screenshots/2.png" width="50%" height="50%" />
+<img src="screenshots/3.png" width="50%" height="50%" />
+<img src="screenshots/4.png" width="50%" height="50%" />
+<img src="screenshots/5.png" width="50%" height="50%" />
+<img src="screenshots/6.png" width="50%" height="50%" />
