@@ -9,17 +9,14 @@ But after seeing the output, Man! I was amazed by the smoothness and UI look & f
 
 Made a basic structure for the dashboard system. More features can be included.
 
-Check the video here
-[![Flutter Admin Dashboard]          
-(https://i.ytimg.com/vi/MMsRAFxmImw/maxresdefault.jpg)] // Thumbnail
-(https://www.youtube.com/watch?v=MMsRAFxmImw "Flutter Admin Dashboard")
+Check the video here (https://www.youtube.com/watch?v=MMsRAFxmImw "Flutter Admin Dashboard")
 
 You can download the dmg
 - [Admin Dashboard DMG File from the installer folder] (https://github.com/souravpalitrana/admin-dashboard/tree/master/installer/macos_dmg)
 
-<img src="screenshots/1.png" width="50%" height="50%" />
-<img src="screenshots/2.png" width="50%" height="50%" />
-<img src="screenshots/3.png" width="50%" height="50%" />
-<img src="screenshots/4.png" width="50%" height="50%" />
-<img src="screenshots/5.png" width="50%" height="50%" />
-<img src="screenshots/6.png" width="50%" height="50%" />
+<img src="screenshots/1.png"/>
+<img src="screenshots/2.png"/>
+<img src="screenshots/3.png"/>
+<img src="screenshots/4.png"/>
+<img src="screenshots/5.png"/>
+<img src="screenshots/6.png"/>
