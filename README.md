@@ -12,7 +12,7 @@ Made a basic structure for the dashboard system. More features can be included.
 Check the video here (https://www.youtube.com/watch?v=MMsRAFxmImw "Flutter Admin Dashboard")
 
 You can download the dmg
-- [Admin Dashboard DMG File from the installer folder] (https://github.com/souravpalitrana/admin-dashboard/tree/master/installer/macos_dmg)
+- Admin Dashboard DMG File from the installer folder: (https://github.com/souravpalitrana/admin-dashboard/tree/master/installer/macos_dmg)
 
 <img src="screenshots/1.png"/>
 <img src="screenshots/2.png"/>
